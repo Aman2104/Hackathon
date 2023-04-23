@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "innovate-a-thon",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
